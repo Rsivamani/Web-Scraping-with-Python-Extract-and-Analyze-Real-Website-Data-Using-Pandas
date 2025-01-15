@@ -1,6 +1,7 @@
 # Web Scraping with Python: Extract and Analyze Real Website Data Using Pandas
 
 ## 🚀 Project Overview
+This project showcases how to scrape and analyze website data using Python tools like BeautifulSoup, requests, and Pandas.
 
 This project demonstrates how to:
 
