@@ -32,11 +32,11 @@ The project demonstrates how to use Python for web scraping, focusing on scrapin
 ## ⚡ Features
 
 - **Simple Web Scraping Process**:
-   Easily scrape data from any publicly available website.
+   -Easily scrape data from any publicly available website.
 - **Data Structuring**:
-  Clean and structure the scraped data using Pandas for further analysis.
+  --Clean and structure the scraped data using Pandas for further analysis.
 - **Automated Data Collection**:
-  Fetch large sets of data from multiple pages efficiently.
+  -Fetch large sets of data from multiple pages efficiently.
 
 ## 💻 Installation Instructions
 
