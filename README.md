@@ -16,15 +16,6 @@ This project is a comprehensive guide for anyone looking to understand web scrap
 - **Pandas**: For data manipulation and analysis.
 - **Jupyter Notebooks**: To document the entire web scraping and analysis process.
 
-## 📜 Table of Contents
-
-1. [Project Summary](#project-summary)
-2. [Features](#features)
-3. [Installation Instructions](#installation-instructions)
-4. [Usage](#usage)
-5. [Acknowledgements](#acknowledgements)
-6. [Future Work](#future-work)
-7. [References](#references)
 
 ## 📝 Project Summary
 
@@ -49,3 +40,32 @@ The Jupyter notebook contains detailed step-by-step instructions and code, makin
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/Rsivamani/Web-Scraping-with-Python-Extract-and-Analyze-Real-Website-Data-Using-Pandas.git
+## 🛠 Usage
+
+To use this project, simply follow the steps laid out in the Jupyter Notebook:
+
+1. Open the notebook and execute the code cells.
+2. Modify the **URL** variable to point to the website you want to scrape.
+3. Run the data cleaning and analysis steps.
+4. Visualize the data using Pandas or other visualization libraries like **Matplotlib** or **Seaborn**.
+
+---
+
+## 🙌 Acknowledgements
+
+- **BeautifulSoup Documentation**: [BeautifulSoup Docs](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
+- **Pandas Documentation**: [Pandas Docs](https://pandas.pydata.org/)
+- **Jupyter Notebooks**: [Jupyter](https://jupyter.org/)
+
+Special thanks to the open-source community for making these powerful libraries available.
+
+---
+
+## 🚀 Future Work
+
+- Add **data visualization** for a more comprehensive data analysis.
+- Implement **multi-threading** to scrape data from multiple pages at once for increased efficiency.
+- Enhance error handling and improve the robustness of the scraping process.
+- Extend the project to include scraping from **multiple websites** with different structures.
+
+   
