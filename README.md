@@ -1,11 +1,1 @@
-
-So @ Zoho Corporation
-<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
-- 🔭 Here's my [portfolio]                                              
-- 🌱 I’m currently learning AI/ML
-- 👯 I’m looking to collaborate on ML/AI
-- 😄 Pronouns: Techie
-
-### I code in
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> 
-
+This project scrapes GitHub topics and their associated repositories using Python. It collects information about topics from the GitHub Topics page and retrieves details about repositories under each topic, including repository names, titles, and URLs. The collected data is then saved into CSV files for further analysis.
