@@ -11,11 +11,6 @@ This project demonstrates how to:
   - **Pandas** (for data analysis)
 - **Analyze** real-world website data to gain insights.
   
-The project is a step-by-step guide for anyone interested in:
-- Learning **web scraping** techniques.
-- Understanding how to extract and process data from websites.
-- Analyzing and visualizing scraped data using Python.
-
 ## 🔧 Technologies Used
 
 - **Python 3.x**
