@@ -6,8 +6,6 @@ This repository contains a project that demonstrates how to extract and analyze 
 
 This project is a comprehensive guide for anyone looking to understand web scraping, data extraction, and analysis using Python.
 
-![Web Scraping Image](link-to-screenshot.png)
-
 ## 🔧 Technologies Used
 
 - **Python 3.x**
