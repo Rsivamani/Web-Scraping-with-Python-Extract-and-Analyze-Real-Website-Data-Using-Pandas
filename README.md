@@ -14,7 +14,7 @@ This project demonstrates how to:
 ## 🔧 Technologies Used
 
 - **Python 3.x**
-- **BeautifulSoup**: For parsing HTML and XML documents.
+- **BeautifulSoup**: For parsing HTML documents.
 - **requests**: For sending HTTP requests to fetch webpage data.
 - **Pandas**: For data manipulation and analysis.
 - **Jupyter Notebooks**: To document the entire web scraping and analysis process.
@@ -27,9 +27,6 @@ The project demonstrates how to use Python for web scraping, focusing on scrapin
 1. **Sending HTTP Requests**: Fetching the webpage's HTML content.
 2. **Parsing HTML with BeautifulSoup**: Extracting relevant data from the HTML structure.
 3. **Data Cleaning and Structuring**: Using Pandas to clean and organize the data for analysis.
-4. **Data Analysis**: Performing analysis on the collected data, such as counting, categorization, or data visualization.
-
-The Jupyter notebook contains detailed step-by-step instructions and code, making it an excellent resource for beginners to intermediate Python users.
 
 ## ⚡ Features
 
