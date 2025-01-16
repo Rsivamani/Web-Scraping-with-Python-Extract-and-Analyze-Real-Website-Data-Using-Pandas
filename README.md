@@ -1,23 +1,23 @@
-# 🌐 Wikipedia Table Scraper
+# Wikipedia Table Scraper
 
 Welcome to the **Wikipedia Table Scraper** project! This repository contains a Python-based solution for extracting tabular data from Wikipedia pages using web scraping techniques and the Pandas library.
 
 ---
 
-## 📝 Project Overview
+##  Project Overview
 
 This project demonstrates how to:
-- Scrape tabular data from Wikipedia pages 🌍.
-- Use Python 🐍 and Pandas 📊 for data extraction and manipulation.
+- Scrape tabular data from Wikipedia pages .
+- Use Python  and Pandas 📊 for data extraction and manipulation.
 - Work with Jupyter Notebooks for interactive development.
 
 With this, you'll gain hands-on experience in data scraping and basic data preprocessing.
 
 ---
 
-## 📖 Project Description
+##  Project Description
 
-### Objectives 🎯
+### Objectives 
 The main objective of this project is to provide a practical example of web scraping by:
 1. Extracting tables from Wikipedia pages.
 2. Cleaning and structuring the scraped data using Pandas.
@@ -25,7 +25,7 @@ The main objective of this project is to provide a practical example of web scra
 
 This project is ideal for beginners who are keen to learn the basics of web scraping and working with structured data.
 
-### Features ✨
+### Features 
 - **Ease of use**: Simple, beginner-friendly code.
 - **Data Export**: Save data in CSV format for further analysis.
 - **Interactive Notebook**: Step-by-step explanation in a Jupyter Notebook.
@@ -34,15 +34,15 @@ This project is ideal for beginners who are keen to learn the basics of web scra
 
 ## 🛠️ Tools & Technologies
 
-- **Python** 🐍: Programming language used for scripting and data manipulation.
-- **Pandas** 📊: Library for data processing and analysis.
-- **Jupyter Notebook** 📓: Interactive environment for coding and documentation.
-- **BeautifulSoup** 🍜: Library for parsing HTML content.
-- **Requests** 🌐: Library to make HTTP requests.
+- **Python** : Programming language used for scripting and data manipulation.
+- **Pandas** : Library for data processing and analysis.
+- **Jupyter Notebook** : Interactive environment for coding and documentation.
+- **BeautifulSoup** : Library for parsing HTML content.
+- **Requests** : Library to make HTTP requests.
 
 ---
 
-## 🔗 Acknowledgements
+##  Acknowledgements
 
 A big thanks to:
 - [Wikipedia](https://www.wikipedia.org/) 🌍 for providing open and accessible data.
@@ -50,7 +50,7 @@ A big thanks to:
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 1. Clone the repository:
    ```bash
@@ -67,4 +67,3 @@ A big thanks to:
    jupyter notebook Web_scraping_using_py_%26_pandas.ipynb
    ```
 
-Happy Scraping! 😄
